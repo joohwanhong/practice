@@ -15,6 +15,7 @@
 4. My repo에 Push하기
 
 5. Veranos에 Pull request하기
+    Commit
 
 - 만약 짜투리 생성 (xml 같은) 시 : global gitingnore_ 를 이용하여 내 선에서(local) 거르기
 
