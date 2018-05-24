@@ -6,9 +6,7 @@
 
 1. Veranos repo pull 땡겨보기
 
-:: 
-
-문제 없을 시
+- 문제 없을 시
 
 2. 작업한 파일들 local repo에 Add하기
 
